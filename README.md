@@ -1,5 +1,5 @@
 ## Before using this repository!
-The YOLOv8n model `best.pt` included in this repository is specific to my project, so please replace it with your own trained model unless you also want to detect and classify potatoes (:
+The YOLOv5n model `best.pt` included in this repository is specific to my project, so please replace it with your own trained model unless you also want to detect and classify potatoes (:
 
 ## Quickstart
 
